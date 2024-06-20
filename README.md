@@ -41,6 +41,6 @@ main().catch(console.error);
 ### Steps in Gmail
 
 1. Visit https://myaccount.google.com/ then to Security then to 2fa, enable 2fa
-2. Search for App passwords, the create one e.g Name: Nodemailer Jedybrown Ventures, password = `dwxm naum ylkg cjua`
+2. Search for App passwords, the create one e.g Name: Nodemailer Jedybrown Ventures, password = `dwxm naum ylkg cfgd`
 
 3. Run `node sendMail.js` to send tthe mail to customers.
